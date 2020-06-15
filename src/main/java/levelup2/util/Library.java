@@ -186,16 +186,12 @@ public class Library {
 
     static {
         CLASSES = Sets.newHashSet();
-        CLASSES.add("archaeologist");
-        CLASSES.add("artisan");
+        CLASSES.add("craftsman");
         CLASSES.add("assassin");
         CLASSES.add("farmer");
         CLASSES.add("fisherman");
-        CLASSES.add("hermit");
         CLASSES.add("lumberjack");
         CLASSES.add("miner");
-        CLASSES.add("scout");
-        CLASSES.add("spelunker");
         CLASSES.add("warrior");
         CLASSES.add("alchemist");
         CLASSES.add("berzerker");
