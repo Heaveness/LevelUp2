@@ -95,8 +95,8 @@ skill.levelup:furnacebonus.name=Smelting Efficiency
 skill.levelup:brewingspeed.name=Brewing Speed
 skill.levelup:fishbonus.name=Fishing Proficiency
 
-class.levelup:artisan.name=Craftsman
-class.levelup:artisan.desc=Tamer of the flaming coals. Gifted by the blacksmith god
+class.levelup:craftsman.name=Craftsman
+class.levelup:craftsman.desc=Tamer of the flaming coals. Gifted by the blacksmith god
 class.levelup:assassin.name=Assassin
 class.levelup:assassin.desc=A killer from the shadows, keeper of silence
 class.levelup:farmer.name=Farmer
