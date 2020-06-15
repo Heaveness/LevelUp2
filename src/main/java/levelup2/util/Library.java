@@ -197,7 +197,11 @@ public class Library {
         CLASSES.add("scout");
         CLASSES.add("spelunker");
         CLASSES.add("warrior");
-        CLASSES.add("zealot");
+        CLASSES.add("alchemist");
+        CLASSES.add("berzerker");
+        CLASSES.add("explorer");
+        CLASSES.add("archer");
+        CLASSES.add("gatherer");
         SKILLS = Sets.newHashSet();
         SKILLS.add("arrowspeed");
         SKILLS.add("bowdraw");
