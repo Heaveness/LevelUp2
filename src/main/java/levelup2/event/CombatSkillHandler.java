@@ -75,7 +75,7 @@ public class CombatSkillHandler {
             int skill = SkillRegistry.getSkillLevel(player, NATURALARMOR);
             if (skill > 0) {
                 if (!evt.getSource().isUnblockable()) {
-                    float amount = evt.getAmount() * (1.0F - skill / 20F);
+                    float amount = evt.getAmount() * (1.0F - skill * 0.03);
                     evt.setAmount(amount);
                 }
             }
